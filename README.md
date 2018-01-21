@@ -1,0 +1,2 @@
+# uscoin
+storage
